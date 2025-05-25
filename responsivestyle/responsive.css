@@ -1,0 +1,601 @@
+@media only screen and (max-width: 1328px) {
+  .tophead {
+    margin-top: 14px;
+  }
+}
+
+@media only screen and (max-width: 1168px) {
+  .contact span {
+    font-size: 14px;
+  }
+
+  .bio {
+    font-size: 14px;
+  }
+
+  .loc {
+    width: 80%;
+  }
+
+  .years {
+    margin-left: 6px;
+  }
+
+  .Name {
+    font-size: 1.6em;
+  }
+
+  .Btech {
+    font-size: 1.3em;
+  }
+
+  .headings {
+    font-size: 1.6em;
+  }
+
+  .Edu div {
+    font-size: 1.1em;
+  }
+
+  .ace {
+    margin-left: 2em;
+    gap: 50px;
+  }
+}
+
+@media only screen and (max-width: 1041px) {
+  .contact span {
+    font-size: 12px;
+  }
+
+  .navbar li {
+    font-size: 12px;
+  }
+
+  .navbar li {
+    box-shadow: inset 2px 2px 5px 2px black;
+  }
+}
+
+@media only screen and (max-width: 913px) {
+  .myimage {
+    font-size: 10px;
+    width: 150px;
+    margin-top: 3em;
+    margin-left: 2em;
+  }
+
+  .contact span {
+    font-size: 10px;
+  }
+
+  .bio {
+    font-size: 10px;
+  }
+
+  .Name {
+    font-size: 1.5em;
+  }
+
+  .Btech {
+    font-size: 1.1em;
+  }
+
+  .headings {
+    font-size: 1.3em;
+  }
+
+  .Edu div {
+    font-size: 0.9em;
+  }
+
+  .cgpa,
+  .years {
+    font-size: 10px;
+  }
+
+  .college {
+    font-size: 0.8em;
+  }
+
+  .cert-sec li {
+    font-size: 0.9em;
+  }
+
+  .projects-sec li {
+    font-size: 0.9em;
+  }
+
+  .skills-sec span,
+  .hobbies-sec li {
+    font-size: 0.6em;
+  }
+}
+
+@media only screen and (max-width: 789px) {
+  .contact span {
+    font-size: 9px;
+  }
+
+  .navbar li {
+    font-size: 9px;
+  }
+
+  .bio {
+    font-size: 10px;
+    margin-top: -20px;
+  }
+
+  .Name {
+    font-size: 1.3em;
+  }
+
+  .Btech {
+    font-size: 0.9em;
+    margin-top: -5px;
+  }
+
+  .headings {
+    font-size: 1.2em;
+  }
+
+  .Edu div {
+    font-size: 0.7em;
+  }
+
+  .cgpa,
+  .years {
+    font-size: 8px;
+  }
+
+  .college {
+    font-size: 0.6em;
+  }
+
+  .cert-sec li {
+    font-size: 0.7em;
+  }
+
+  .projects-sec li {
+    font-size: 0.7em;
+  }
+
+  .skills-sec span,
+  .hobbies-sec li {
+    font-size: 0.5em;
+  }
+
+  .midline {
+    margin-top: 0em;
+  }
+
+  .ace {
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 730px) {
+  .midline span {
+    margin: 2px;
+  }
+
+  .midline {
+    margin-top: 2em;
+  }
+
+  .Btech {
+    margin-top: -1px;
+  }
+
+  .bio {
+    margin-top: -10px;
+  }
+}
+
+@media only screen and (max-width: 669px) {
+  .imgcon {
+    width: 100px;
+  }
+
+  .navbar li {
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .myimage {
+    margin-top: 4em;
+    font-size: 8px;
+    width: 100px;
+  }
+
+  .bio {
+    margin-top: -15px;
+    font-size: 8px;
+  }
+
+  .midline {
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+}
+
+@media only screen and (max-width: 649px) {
+  .Btech {
+    font-size: 0.9em;
+    margin-bottom: 1em;
+  }
+  .bio {
+    margin-top: 1px;
+    margin-bottom: 2em;
+  }
+
+  .midline {
+    margin-bottom: 1em;
+  }
+}
+
+@media only screen and (max-width: 584px) {
+  .bio {
+    font-size: 6px;
+    letter-spacing: 1.2px;
+  }
+
+  .myimage {
+    margin-top: 10px;
+    font-size: 6px;
+    width: 80px;
+  }
+
+  .imgcon {
+    width: 70px;
+  }
+  .tophead {
+    margin-top: 0;
+  }
+
+  .Name {
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    margin: 0;
+    margin-right: 20px;
+  }
+
+  .Btech {
+    font-size: 0.8em;
+  }
+
+  .headings {
+    font-size: 1em;
+  }
+
+  .Edu div {
+    font-size: 0.6em;
+  }
+
+  .college {
+    font-size: 0.53em;
+  }
+
+  .cert-sec li {
+    font-size: 0.6em;
+  }
+
+  .projects-sec li {
+    font-size: 0.6em;
+  }
+
+  .skills-sec span,
+  .hobbies-sec li {
+    padding-top: 4px;
+    font-size: 0.4em;
+  }
+
+  .midline {
+    margin-bottom: 1em;
+  }
+
+  .certhob {
+    margin-right: 25px;
+  }
+
+  .academic-sec,
+  .cert-sec,
+  .skills-sec,
+  .hobbies-sec,
+  .projects-sec {
+    margin-bottom: 1.4em;
+  }
+}
+
+@media only screen and (max-width: 533px) {
+  .myimage {
+    margin-top: 21px;
+  }
+
+  .navbar li {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .navbar li {
+    box-shadow: inset 2px 2px 3px 1px;
+  }
+
+  .hobbies-sec li,
+  .skills-sec span {
+    padding: 5px;
+  }
+
+  .loc {
+    font-size: 8px;
+  }
+
+  .years {
+    font-size: 7px;
+  }
+
+  .cgpa {
+    font-size: 7px;
+  }
+
+  .midline span {
+    font-size: 7px;
+  }
+}
+
+@media only screen and (max-width: 437px) {
+  .myimage {
+    font-size: 5px;
+    width: 70px;
+    margin-top: 10px;
+    position: relative;
+    left: -10px;
+  }
+
+  .navbar li {
+    font-size: 8px;
+    padding: 5px;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .imgcon {
+    width: 40px;
+  }
+
+  .Name {
+    font-size: 14px;
+  }
+
+  .Btech {
+    font-size: 8px;
+  }
+  .bio {
+    font-size: 5px;
+  }
+
+  .headings {
+    font-size: 12px;
+  }
+
+  .Edu div {
+    font-size: 9px;
+  }
+
+  .college {
+    font-size: 8px;
+  }
+
+  .cgpa,
+  .years {
+    font-size: 5px;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    height: 20px;
+  }
+
+  .loc {
+    font-size: 7px;
+
+    padding-top: 0;
+  }
+
+  .cert-sec li,
+  .projects-sec li {
+    font-size: 8px;
+  }
+
+  .skills-sec span,
+  .hobbies-sec li {
+    font-size: 6px;
+    padding: 4px;
+  }
+}
+
+@media only screen and (max-width: 377px) {
+  .myimage {
+    margin-top: 3em;
+  }
+  .cgpa,
+  .years {
+    font-size: 4px;
+    margin-right: 5px;
+  }
+
+  .ace {
+    margin-left: 10px;
+    gap: 10px;
+  }
+
+  .hobbies-sec li,
+  .skillslist span {
+    font-size: 5px;
+    margin: 0;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+    padding: 5px;
+  }
+
+  .certlist li {
+    letter-spacing: 1.5px;
+    word-spacing: 1px;
+  }
+
+  .ace {
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 283px) {
+  .myimage {
+    display: none;
+  }
+
+  .navbar li {
+    font-size: 5.5px;
+  }
+
+  .tophead {
+    margin-left: 0;
+  }
+
+  .navbar li {
+    box-shadow: inset 1px 1px 2px 0.5px black;
+  }
+
+  .Btech,
+  .Name {
+    width: 250px;
+    margin-right: 0;
+  }
+
+  .Btech {
+    margin-bottom: 0;
+  }
+
+  .photo {
+    display: inline-block;
+    height: 50px;
+    width: 85px;
+    border-radius: 10em;
+    margin-top: -15px;
+    margin-right: 5px;
+  }
+}
+
+@media only screen and (max-width: 260px) {
+  .tophead {
+    display: inline-block;
+    overflow: hidden;
+    line-height: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 2px;
+  }
+
+  .navbar li {
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  .Name {
+    margin-top: 0em;
+  }
+
+  .Btech {
+    margin-top: 1em;
+    margin-bottom: 4px;
+  }
+
+  .bio {
+    margin-top: 6em;
+    line-height: 0px;
+  }
+
+  .profile-sec {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 0;
+  }
+
+  .bio,
+  .Btech,
+  .Name {
+    max-width: 100%;
+  }
+
+  .midline span {
+    font-size: 5px;
+  }
+
+  .headings {
+    font-size: 9px;
+  }
+
+  .Edu div {
+    font-size: 7px;
+  }
+
+  .college {
+    font-size: 7px;
+  }
+
+  .loc {
+    font-size: 5px;
+  }
+
+  .cgpa,
+  .years {
+    font-size: 4px;
+    padding-top: 5px;
+    padding-right: 1px;
+    padding-left: 1px;
+  }
+
+  .cert-sec li,
+  .projects-sec li {
+    font-size: 6px;
+  }
+
+  .skills-sec span,
+  .hobbies-sec li {
+    font-size: 4px;
+    padding-top: 3.5px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 3px;
+  }
+}
+
+@media only screen and (max-width: 220px) {
+  .years,
+  .cgpa {
+    font-size: 3px;
+    margin-left: 0;
+    width: 38px;
+  }
+
+  .loc {
+    margin-left: 0;
+  }
+}
+
+@media only screen and (max-width: 214px) {
+  .photo {
+    height: 55px;
+    width: 110px;
+  }
+
+  .navbar li {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+}
